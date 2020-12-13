@@ -128,3 +128,7 @@ hr {
 .desc {
     color: grey;
 }
+
+footer {
+    height: 10vh;
+}
