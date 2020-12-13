@@ -8,3 +8,13 @@ I'm **always** open to hear your criticisms or advice on what I can do to improv
 **Thank you** for taking a look at my portfolio as well as taking the time to read this!
 
 If you have any questions I'd love to answer them!
+
+<details>
+
+<summary>Common Questions</summary>
+<br>
+Q: Why is your porftolio page so simple? It doesn't exactly show off your skills...
+<br>
+A: I prefer to display my skillset through my projects. Therefore, my portfolio page acts as a glossary, which makes it easier to navigate.
+
+</details>
