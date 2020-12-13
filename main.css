@@ -110,7 +110,7 @@ hr {
     padding-right: 2%;
 }
 
-.badge {
+/* .badge {
     font-size: 40%;
     background: rgb(200, 200, 200);
     border-radius: 10px
@@ -123,7 +123,7 @@ hr {
 
 .js-badge {
     background: #FCDC00;
-}
+} */
 
 .desc {
     color: grey;
